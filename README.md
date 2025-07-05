@@ -15,5 +15,7 @@
 - 📝 [Google Docs](https://docs.google.com/document/d/1feRPZHVdADIEjoItOIVYr7SY-oyFfyn4CP7AdWKyyTk/edit?usp=sharing) to view documentation of SpardaScheduler
 
 ## 📜 Changelog
+### ✨ v2025.07.05.0
+- Change HELP open from console to txt
 ### ✨ v2025.06.28.0
 - 🚀 First Launch
